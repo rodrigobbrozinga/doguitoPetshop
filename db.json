@@ -19,6 +19,11 @@
       "nome": "Creuber",
       "email": "creuber@email.com.br",
       "id": 5
+    },
+    {
+      "nome": "teste 3",
+      "email": "teste3@email.com.br",
+      "id": 6
     }
   ]
 }
