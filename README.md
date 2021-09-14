@@ -1,7 +1,3 @@
-abrir a pasta admin no vscode e 
-rodar o json server: 
-```js
-json-server --watch db.json
-```
+# Projeto Doguito PetShop
 
-Rodar: browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
+Projeto para desenvolver um site de cadastro de clientes utilizando HTML5, CSS3 e JavaScript.
